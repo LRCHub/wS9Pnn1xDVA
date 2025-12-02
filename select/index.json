@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Eye Splice",
+  "base_artist": "JJJ",
+  "createdAt": "2025-12-02T08:14:41.361511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eye Splice",
+      "artist": "JJJ",
+      "has_synced": false,
+      "path": "select/01_Eye_Splice_JJJ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eye Splice",
+      "artist": "JJJ",
+      "has_synced": false,
+      "path": "select/pl_01_Eye_Splice_JJJ.txt"
+    }
+  ]
+}
